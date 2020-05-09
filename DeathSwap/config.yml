@@ -1,0 +1,7 @@
+game:
+  minSwapTime: 25
+  maxSwapTime: 90
+  resistanceDuration: 6
+  spawnDistance: 1000
+  allowDrops: true
+  startKit: ""

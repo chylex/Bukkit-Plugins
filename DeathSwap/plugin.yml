@@ -1,0 +1,11 @@
+name: DeathSwap
+main: cz.fo2.chylex.deathswap.DeathSwap
+version: 1.1 beta
+author: chylex
+website: https://chylex.com
+load: POSTWORLD
+commands:
+  deathswap:
+    aliases: [ds,swap]
+    description: DeathSwap commands
+    usage: /deathswap
